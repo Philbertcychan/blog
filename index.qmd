@@ -1,6 +1,5 @@
 ---
 title: "Philbert Chan"
-author: "Philbert"
 date: "11.2.2024"
 output: html_document
 ---
@@ -9,3 +8,4 @@ output: html_document
 
 [About Me](about_me/about_me.html)  
 [Research](research/research.html)  
+
