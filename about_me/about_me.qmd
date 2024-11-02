@@ -3,7 +3,7 @@ title: "About Me"
 output: html_document
 ---
 
-[Back to Home](index.html)
+[Back to Home](../index.html)
 
 # Who am I?
 I am currently a student at 
