@@ -3,6 +3,8 @@ title: "My Favourite Quotes"
 output: html_document
 ---
 
+[Back to Home](index.html)
+
 <details>
 <summary>**Adventure and Exploration**</summary>
 - The interesting thing about being alive is that you're all in; no matter what you do, you're all in. This is going to kill you. So I think you might as well play the most magnificent game you can, while you're waiting because, do you have anything better to do?
@@ -20,7 +22,7 @@ output: html_document
 - What would happen if you spent one year giving it your all, doing exactly what you knew you needed to do? 
 - A bad obsession is an act of consumption. A good obsession is an act of creation. 
 - The two most powerful warriors are patience and time. 
-- A calm mind creates art violently
+- A calm mind creates art violently.
 - Not to feel exasperated, or defeated, or despondent because your days aren’t packed with wise and moral actions. But to get back up when you fail, to celebrate behaving like a human—however imperfectly—and fully embrace the pursuit that you’ve embarked on.
 - The will to win is not nearly as important as the will to prepare to win. Everyone wants to win but not everyone wants to prepare to win. Preparing to win is where the determination that you will win is made. Once the game or test or project is underway, it is too late to prepare to win. The actual game, test or project is just the end of a long process of getting ready, in which the outcome was really determined. So if you want to win, you must prepare to win. Once you prepare to win, winning is almost anti-climatic.
 </details>
