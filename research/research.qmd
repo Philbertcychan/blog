@@ -5,20 +5,17 @@ output: html_document
 
 [Back to Home](../index.html)
 
-# Projects and Case Studies
-## Featured Projects
+## Projects and Case Studies
 - **Project Title 1**: Brief description of Project 1. [Learn More]  
 - **Project Title 2**: Brief description of Project 2. [Learn More]  
 - [View All Projects](projects_files/projects.html)  
 
-# Blog Posts
-## Featured Blog Posts
+## Blog Posts
 - **Blog Post Title 1**: Brief description of Blog Post 1. [Read More]  
 - **Blog Post Title 2**: Brief description of Blog Post 2. [Read More]  
 - [View All Blog Posts](blog_posts_files/blog_posts.html)
 
-# Code Samples
-## Featured Code Samples
+## Code Samples
 - **Sample Code 1**: Brief description of Sample Code 1. [View Code]  
 - **Sample Code 2**: Brief description of Sample Code 2. [View Code]  
 - [View All Code Samples](code_samples_files/code_samples.html)  
