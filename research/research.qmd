@@ -12,7 +12,7 @@ output: html_document
 # Blog Posts
 ## Featured Blog Posts
 - **Blog Post Title 1**: Brief description of Blog Post 1. [Read More]  
-- **Blog PostTitle 2**: Brief description of Blog Post 2. [Read More]  
+- **Blog Post Title 2**: Brief description of Blog Post 2. [Read More]  
 - [View All Blog Posts](blog_posts_files/blog_posts.html)
 
 # Code Samples
