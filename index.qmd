@@ -7,5 +7,5 @@ output: html_document
 
 # Welcome
 
-[About Me](about_me/about_me.html)
-[Research](research/research.html)
+[About Me](about_me/about_me.html)  
+[Research](research/research.html)  

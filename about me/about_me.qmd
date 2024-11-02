@@ -7,6 +7,6 @@ output: html_document
 I am currently a student at 
 
 ## Socials
-[Email Me](mailto:philbertcychan@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/philbert-chan/)
-[GitHub](https://github.com/Philbertcychan)
+[Email Me](mailto:philbertcychan@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/philbert-chan/)  
+[GitHub](https://github.com/Philbertcychan)  
