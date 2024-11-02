@@ -1,10 +1,13 @@
 ---
-title: "My Blog Title"
+title: "project-wayne"
 author: "Philbert"
 date: "11.2.2024"
 output: html_document
 ---
 
-# project-wayne
+# "You're all in"
 
-?
+[Mind](Mind.html)
+[Soul](Soul.html)
+[Strength](Strength.html)
+[Heart](Heart.html)
