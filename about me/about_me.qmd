@@ -1,0 +1,12 @@
+---
+title: "About Me"
+output: html_document
+---
+
+# Who am I?
+I am currently a student at 
+
+## Socials
+[Email Me](mailto:philbertcychan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/philbert-chan/)
+[GitHub](https://github.com/Philbertcychan)

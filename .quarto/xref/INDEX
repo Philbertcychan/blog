@@ -16,5 +16,32 @@
   },
   "Strength.qmd": {
     "Strength.html": "e7881a2f"
+  },
+  "about me/about_me.qmd": {
+    "about_me.html": "c0f9d1b5"
+  },
+  "index_files/libs/index.qmd": {
+    "index.html": "cde3d4f6"
+  },
+  "research/blog_posts.qmd": {
+    "blog_posts.html": "b54b5f13"
+  },
+  "research/code_samples.qmd": {
+    "code_samples.html": "6899bf24"
+  },
+  "research/projects.qmd": {
+    "projects.html": "521dce1d"
+  },
+  "research/research.qmd": {
+    "research.html": "7cbc88f4"
+  },
+  "research/blog_posts_files/blog_posts.qmd": {
+    "blog_posts.html": "29b6165b"
+  },
+  "research/code_samples_files/code_samples.qmd": {
+    "code_samples.html": "8313b9d0"
+  },
+  "research/projects_files/projects.qmd": {
+    "projects.html": "01fb0e60"
   }
 }

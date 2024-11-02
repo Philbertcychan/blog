@@ -1,0 +1,11 @@
+---
+title: "Philbert Chan"
+author: "Philbert"
+date: "11.2.2024"
+output: html_document
+---
+
+# Welcome
+
+[About Me](about_me/about_me.html)
+[Research](research/research.html)

@@ -1,0 +1,24 @@
+---
+title: "Research"
+output: html_document
+---
+
+# Projects and Case Studies
+## Featured Projects
+- **Project Title 1**: Brief description of Project 1. [Learn More]
+- **Project Title 2**: Brief description of Project 2. [Learn More]
+- [View All Projects](research/projects_files/projects.html)
+
+# Blog Posts
+## Featured Blog POsts
+- **Blog Post Title 1**: Brief description of Blog Post 1. [Read More]
+- **Blog PostTitle 2**: Brief description of Blog Post 2. [Read More]
+- [View All Blog Posts](research/blog_posts_files/blog_posts.html)
+
+# Code Samples
+## Featured Code Samples
+- **Sample Code 1**: Brief description of Sample Code 1. [View Code]
+- **Sample Code 2**: Brief description of Sample Code 2. [View Code]
+
+- [View All Code Samples](rsearch/code_samples_files/code_samples.html)
+
