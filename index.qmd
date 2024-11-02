@@ -1,10 +1,10 @@
 ---
 title: "My Blog Title"
-author: "Your Name"
-date: "`r Sys.Date()`"
+author: "Philbert"
+date: "11.2.2024"
 output: html_document
 ---
 
-# Welcome to My Blog
+# project-wayne
 
-This is my first blog post using Quarto!
+?
