@@ -7,11 +7,7 @@ output: html_document
 
 # "You're all in"
 
-Hello
-
-[Mind](Mind.html)
-[Soul](Soul.html)
-[Strength](Strength.html)
-[Heart](Heart.html)
-
-Test
+[Mind](Mind.html)  
+[Soul](Soul.html)  
+[Strength](Strength.html)  
+[Heart](Heart.html)  
