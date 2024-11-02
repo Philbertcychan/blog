@@ -3,4 +3,4 @@ title: "Projects"
 output: html_document
 ---
 
-[Back to Home](index.html)
+[Back to Home](../index.html)
