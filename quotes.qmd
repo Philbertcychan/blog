@@ -1,0 +1,20 @@
+---
+title: "My Favourite Quotes"
+output: html_document
+---
+
+<details>
+<summary># Adventure and Exploration</summary>
+
+</details>
+
+<details>
+<summary># Solitude</summary>
+- How good might the best possible future be if the most effective sacrifice could be made? 
+
+</details>
+
+<details>
+<summary># Urgency</summary>
+
+</details>

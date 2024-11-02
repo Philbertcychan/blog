@@ -8,4 +8,4 @@ output: html_document
 
 [About Me](about_me/about_me.html)  
 [Research](research/research.html)  
-
+[Quote Gallery](quotes.html)

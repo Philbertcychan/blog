@@ -46,5 +46,8 @@
   },
   "about_me/about_me.qmd": {
     "about_me.html": "c286e43a"
+  },
+  "quotes.qmd": {
+    "quotes.html": "91f043e1"
   }
 }
