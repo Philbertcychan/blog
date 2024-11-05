@@ -4,3 +4,5 @@ output: html_document
 ---
 
 [Back to Home](../../index.html)
+
+- [Goose Classifier](https://Philbertcychan.github.io/project-wayne/research/projects_files/goose_classifier.html)
